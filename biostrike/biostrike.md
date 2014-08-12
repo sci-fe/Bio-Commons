@@ -1,4 +1,4 @@
-biostrike
+Biostrike
 
 
 Biostrike: open source antibiotic discovery
